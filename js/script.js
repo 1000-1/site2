@@ -1,0 +1,2 @@
+/* javascript */
+alert("Привет!");
